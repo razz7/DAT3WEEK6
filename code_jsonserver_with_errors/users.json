@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "id": 100,
+      "age": 39,
+      "name": "Madeleine Flynn",
+      "gender": "female",
+      "email": "madeleineflynn@jumpstack.com"
+    },
+    {
+      "id": 101,
+      "age": 34,
+      "name": "Cecile Benson",
+      "gender": "female",
+      "email": "cecilebenson@jumpstack.com"
+    },
+    {
+      "id": 102,
+      "age": 20,
+      "name": "Kennedy Branch",
+      "gender": "male",
+      "email": "kennedybranch@jumpstack.com"
+    },
+    {
+      "id": 103,
+      "age": 32,
+      "name": "Lucinda Ballard",
+      "gender": "female",
+      "email": "lucindaballard@jumpstack.com"
+    },
+    {
+      "id": 104,
+      "age": 20,
+      "name": "Holmes Morin",
+      "gender": "male",
+      "email": "holmesmorin@jumpstack.com"
+    },
+    {
+      "id": 105,
+      "age": 29,
+      "name": "Della Good",
+      "gender": "female",
+      "email": "dellagood@jumpstack.com"
+    },
+    {
+      "id": 106,
+      "age": 31,
+      "name": "Shelly Greer",
+      "gender": "female",
+      "email": "shellygreer@jumpstack.com"
+    },
+    {
+      "id": 107,
+      "age": 32,
+      "name": "Sherrie Sexton",
+      "gender": "female",
+      "email": "sherriesexton@jumpstack.com"
+    },
+    {
+      "id": 108,
+      "age": 33,
+      "name": "Bright Mccarty",
+      "gender": "male",
+      "email": "brightmccarty@jumpstack.com"
+    },
+    {
+      "id": 109,
+      "age": 34,
+      "name": "Rush Hays",
+      "gender": "male",
+      "email": "rushhays@jumpstack.com"
+    },
+    {
+      "id": 110,
+      "age": 26,
+      "name": "Whitehead Rose",
+      "gender": "male",
+      "email": "whiteheadrose@jumpstack.com"
+    },
+    {
+      "id": 111,
+      "age": 33,
+      "name": "Buchanan Frye",
+      "gender": "male",
+      "email": "buchananfrye@jumpstack.com"
+    },
+    {
+      "age": "23",
+      "name": "John",
+      "gender": "male",
+      "email": "John123@johnmail.com",
+      "id": 114
+    },
+    {
+      "age": "23",
+      "name": "John",
+      "gender": "male",
+      "email": "John123@johnmail.com",
+      "id": 115
+    },
+    {
+      "age": "22",
+      "name": "John",
+      "gender": "male",
+      "email": "John123@johnmail.com",
+      "id": 116
+    },
+    {
+      "age": "22",
+      "name": "John",
+      "gender": "male",
+      "email": "John123@johnmail.com",
+      "id": 117
+    },
+    {
+      "age": "11",
+      "name": "John",
+      "gender": "male",
+      "email": "John123@johnmail.com",
+      "id": 118
+    },
+    {
+      "age": "66",
+      "name": "Hans",
+      "gender": "male",
+      "email": "recked@hotmail.com",
+      "id": 119
+    },
+    {
+      "age": "67",
+      "name": "Hans",
+      "gender": "male",
+      "email": "asd@mail.com",
+      "id": 120
+    }
+  ]
+}
